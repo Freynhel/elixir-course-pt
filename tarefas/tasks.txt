@@ -1,0 +1,5 @@
+Hello World,Uncompleted
+World Hello,Uncompleted
+World World,Completed
+Hello Hello,Completed
+qualquer coisa,Uncompleted
